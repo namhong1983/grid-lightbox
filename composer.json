@@ -1,14 +1,14 @@
 {
-    "name": "laravel-admin-ext/grid-lightbox",
+    "name": "namhong1983/grid-lightbox",
     "description": "Turn your grid into a lightbox & gallery",
     "type": "library",
     "keywords": ["laravel-admin", "extension", "grid", "lightbox", "gallery"],
-    "homepage": "https://github.com/laravel-admin-ext/grid-lightbox",
+    "homepage": "https://github.com/namhong1983/grid-lightbox",
     "license": "MIT",
     "authors": [
         {
             "name": "song",
-            "email": "zosong@126.com"
+            "email": "namhong1983@gmail.com"
         }
     ],
     "require": {
